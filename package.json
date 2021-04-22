@@ -1,0 +1,38 @@
+{
+  "name": "amdp",
+  "version": "1.0.0",
+  "description": "AMDP",
+  "author": "Alessandro Merletti De Palo",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "dev-debug": "node --inspect node_modules/.bin/nuxt",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "lintfix": "eslint --fix --ext .js,.vue --ignore-path .gitignore ."
+  },
+  "dependencies": {
+    "@nuxt/components": "^1.2.5",
+    "@nuxt/http": "^0.6.2",
+    "@nuxt/webpack": "^2.14.12",
+    "@nuxtjs/proxy": "^2.1.0",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "dotenv": "^8.2.0",
+    "node-sass": "^5.0.0",
+    "nodemon": "^2.0.7",
+    "nuxt": "^2.14.12",
+    "sass-loader": "^10.1.1",
+    "vue-recaptcha": "^1.3.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config": "^2.0.2",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-loader": "^3.0.4",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-eslint-parser": "^7.4.1"
+  }
+}

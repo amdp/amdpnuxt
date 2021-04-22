@@ -1,0 +1,10 @@
+{
+  "prettier.semi": false,
+  "prettier.disableLanguages": [],
+  "vetur.format.defaultFormatter.html": "prettier",
+  "rest-client.fontSize": 12,
+  "workbench.enableExperiments": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
