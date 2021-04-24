@@ -8,7 +8,7 @@ module.exports = {
   ],
   //serverMiddleware: ['./api'],
   telemetry: false,
-  css: ['@assets/xxx.scss'],
+  css: ['@assets/amdp.scss'],
   components: true,
   modules: [
     '@nuxt/http',
@@ -28,8 +28,6 @@ module.exports = {
   },
   env: {
     URLHOME: process.env.URLHOME,
-    DBURL: process.env.DBURL,
-    BINANCEID: process.env.BINANCEID,
     RECAPTCHA: process.env.RECAPTCHA
   },
   server: process.env.HTTPS
@@ -68,39 +66,5 @@ module.exports = {
           'https://fonts.googleapis.com/css?family=Prompt:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap'
       }
     ]
-  },
-  auth: {
-    strategies: {
-      google: { client_id: process.env.GOOGLEID },
-      twitter: { client_id: process.env.TWITTERID },
-      auth0: { domain: 'nuxt-auth.auth0.com', client_id: process.env.AUTH0ID },
-      github: {
-        client_id: process.env.GITHUBID,
-        client_secret: process.env.GITHUBSECRET
-      },
-      facebook: {
-        client_id: process.env.FBID,
-        scope: ['public_profile', 'email', 'user_birthday'],
-        userinfo_endpoint:
-          'https://graph.facebook.com/v2.12/me?fields=about,name,picture{url},email,birthday'
-      },
-      local: {
-        endpoints: {
-          login: {
-            url: '/login',
-            method: 'post',
-            propertyName: 'token.accessToken'
-          },
-          logout: { url: '/logout', method: 'post' },
-          user: { url: '/user', method: 'get', propertyName: 'user' }
-        }
-      }
-    },
-    redirect: {
-      home: '/user',
-      login: '/login',
-      user: '/login',
-      logout: '/login'
-    }
   }
 }
