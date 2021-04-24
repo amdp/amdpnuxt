@@ -17,9 +17,8 @@
       &nbsp;&nbsp;
       <div class="base jj f">
         As a film director, I co-founded with Giovanni Caloro
-        <a href="http://amarenapictures.com">Amarena Pictures</a>, an
-        audiovisual production company born as a service for our directions in
-        2010.
+        <a href="http://amarenapictures.com">Amarena Pictures</a>, a video
+        production company born as a service for our directions in 2010.
       </div>
       <br />
       <b-row>
@@ -30,9 +29,10 @@
           <a href="http://cooperacy.org">Cooperacy</a>, a research organization
           about Cooperation Science, with the purpose of co-creating a social
           ecosystem based on proportional distribution of activities, profits
-          and governance. <br />I support complex organizations coordination,
-          analyse their level of cooperation, hold conferences and workshops
-          about Cooperation Science.<br />
+          and governance, something close to a "social liberism". <br />I
+          support complex organizations coordination, analyse their level of
+          cooperation, hold conferences and workshops about Cooperation
+          Science.<br />
         </div>
       </b-row>
       <b-row class="w-100 justify-content-center m-3">
