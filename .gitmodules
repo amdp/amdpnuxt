@@ -1,0 +1,3 @@
+[submodule "pages/piccolomanuale"]
+	path = pages/piccolomanuale
+	url = https://github.com/amdp/piccolomanuale
