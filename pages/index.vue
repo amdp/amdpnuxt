@@ -47,6 +47,7 @@
 
 <!--
 Traits:<br /><br />
+Asperger Sindrome - Autism level 1 diagnosed
 HSP: HSP-E <br />
 https://hsperson.com/test/highly-sensitive-test<br />
 16P: ENFJ-ENFP-A <br />

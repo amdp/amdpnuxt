@@ -3,9 +3,13 @@ require('dotenv').config()
 import fs from 'fs'
 import path from 'path'
 module.exports = {
-  build: {},
-  plugins: [
-  ],
+  build: {
+    babel: {
+      plugins: [["@babel/plugin-proposal-private-methods", { "loose": true }]
+      ]
+    },
+  },
+  plugins: [],
   //serverMiddleware: ['./api'],
   telemetry: false,
   css: ['@assets/amdp.scss'],
