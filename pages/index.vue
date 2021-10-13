@@ -41,34 +41,21 @@
         <div class="base jj f">
           I have been diagnosed in 2021 to be in the Autism spectrum, level 1
           "<a href="https://en.wikipedia.org/wiki/Asperger_syndrome">Asperger</a
-          >", with no apparent disability and with high level of empathy. I am
-          in fact also an
+          >", although with no apparent disability and with high level of
+          empathy. Another test I had told me in fact I am also a "high
+          sensitive",
           <a href="https://hsperson.com/test/highly-sensitive-test">HSP-E</a>
-          person, an ex <a href="https://www.mensa.org/">Mensa</a> member and my
-          personality is
-          <a href="https://www.16personalities.com/">ENFJ-ENFP-A</a>,
-          <a href="https://www.jovianarchive.com/get_your_chart">
-            Human Design
-          </a>
-          ManGen 1/3-1/4,
-          <a href="https://www.truity.com/test/big-five-personality-test">
-            5 Big Personalities
-          </a>
-          Openness 84 Concentiousness 92 Extraversion 78 Agreableness 71
-          Neuroticism 38,
-          <a href="https://www.truity.com/test/enneagram-personality-test">
-            Enneagram
-          </a>
-          8-5,
-          <a href="https://www.5lovelanguages.com/quizzes/singles-quiz">
-            Love Language
-          </a>
-          Quality Time 30 Physical Touch 28 Acts of service 20 Words of
-          Affirmation 18 Receiving gifts 4.
+          person. I was sixteen years old when I entered
+          <a href="https://www.mensa.org/">Mensa</a>, now I am an ex member of
+          the association. My "Jungian" personality is instead
+          <a href="https://www.16personalities.com/">ENFJ-ENFP-A</a>.
           <br /><br />
-          So many tests just to tell you I am human and happy to know new
-          people, so feel free to write me, you may find me in many social
-          networks.
+          The point of these tests is that they're not hard science like our
+          blood type or the color of our eyes, so that no test can really tell
+          us who we are. Nevetheless, they can give us some hints about
+          ourselves. <br />
+          Now that you have some strange hints about me, feel free to write me,
+          you should be able to find my name in many social networks.
           <br />
           Hoping you found good informations, I wish you a pleasant and happy
           day.<br /><br /><br />
@@ -77,3 +64,22 @@
     </b-row>
   </b-container>
 </template>
+
+// <a href="https://www.jovianarchive.com/get_your_chart">
+//             Human Design
+//           </a>
+//           ManGen 1/3-1/4,
+//           <a href="https://www.truity.com/test/big-five-personality-test">
+//             5 Big Personalities
+//           </a>
+//           Openness 84 Concentiousness 92 Extraversion 78 Agreableness 71
+//           Neuroticism 38,
+//           <a href="https://www.truity.com/test/enneagram-personality-test">
+//             Enneagram
+//           </a>
+//           8-5,
+//           <a href="https://www.5lovelanguages.com/quizzes/singles-quiz">
+//             Love Language
+//           </a>
+//           Quality Time 30 Physical Touch 28 Acts of service 20 Words of
+//           Affirmation 18 Receiving gifts 4.
