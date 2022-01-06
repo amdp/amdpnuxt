@@ -46,16 +46,17 @@
           sensitive",
           <a href="https://hsperson.com/test/highly-sensitive-test">HSP-E</a>
           person. I was sixteen years old when I entered
-          <a href="https://www.mensa.org/">Mensa</a>, now I am an ex member of
-          the association. My "Jungian" personality is instead
+          <a href="https://www.mensa.org/">Mensa</a>, now I am no longer member
+          of the association. My "Jungian" personality is instead
           <a href="https://www.16personalities.com/">ENFJ-ENFP-A</a>.
           <br /><br />
-          The point of these tests is that they're not hard science like our
-          blood type or the color of our eyes, so that no test can really tell
-          us who we are. Nevetheless, they can give us some hints about
-          ourselves. <br />
+          No test can really tell us who we are. Nevetheless, they can give out
+          some hints about ourselves. <br />
           Now that you have some strange hints about me, feel free to write me,
           you should be able to find my name in many social networks.
+          <br />
+          If you are Italian, you may want to read my
+          <nuxt-link to="./poems/poems">poems</nuxt-link>
           <br />
           Hoping you found good informations, I wish you a pleasant and happy
           day.<br /><br /><br />
