@@ -10,15 +10,18 @@
         sembra un periodo che non c'era prima<br />
         non ricordate<br />
         non era nel libro<br />
-        eppure lo conoscete già<br />
+        eppure lo conoscete già<br /><br />
+
         chiudi gli occhi<br />
         sfoglialo<br />
         piano piano<br />
         senti la carta che gira<br />
-        con le foto stampate<br />
+        con le foto stampate<br /><br />
+
         un periodo strano<br />
         guarda quelle strane pagine<br />
-        lentamente dovresti riuscire a leggerle<br />
+        lentamente dovresti riuscire a leggerle<br /><br />
+
         gattini<br />
         medicine<br />
         poi Aldabra, non capisci cosa c'entri<br />
@@ -52,7 +55,8 @@
         secchi<br />
         non portano più maschere<br />
         cercano acqua<br />
-        acqua...<br />
+        acqua...<br /><br />
+
         ragazzi non so voi<br />
         ma qui<br />
         nelle pagine, partendo dall'inizio<br />
@@ -66,27 +70,31 @@
         mentre un tempo non ci capivamo nulla<br />
         mentre oggi ordiniamo una felpa online<br />
         mentre ci chiediamo cosa fare a capodanno<br />
-        mentre mio nonno era partizan<br />
+        mentre mio nonno era partizan<br /><br />
+
         quanti anni sono che diamo nobel?<br />
         Quanti anni sono che costruiamo civiltà?<br />
         Tecnologie sempre più avanzate ma...<br />
         ci sono ancora papi, presidenti, comandanti<br />
         una imperatrice chiamata Ipocrisia<br />
         una dottrina chiamata valori<br />
-        e una pratica chiamata soldi<br />
+        e una pratica chiamata soldi<br /><br />
+
         Quanti secoli sono che viaggiamo<br />
         senza sapere cosa mai sia questa Terra<br />
         questa vita esistenza<br />
         senza sapere il perché<br />
         urliamo<br />
         feroci<br />
-        gli uni contro gli altri<br />
+        gli uni contro gli altri<br /><br />
+
         Ho ragione io!<br />
         Fidati che t'inculo!<br />
         Rimettimi subito il mio credito agevolato!<br />
         Ama tu me, che poi ti amo io!<br />
         Non ti farò vincere!<br />
-        Devo vincere io!<br />
+        Devo vincere io!<br /><br />
+
         Da quanto dura questa fatica<br />
         immensa<br />
         quante vite passano<br />
