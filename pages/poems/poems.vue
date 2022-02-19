@@ -31,7 +31,31 @@
       <h2><nuxt-link to="./luniverso">L'Universo 2022 1 13</nuxt-link></h2>
     </b-row>
     <b-row class="m-3 justify-content-center">
-      <h2><nuxt-link to="./ilsolco">Insostenibilità 2022 1 13</nuxt-link></h2>
+      <h2>
+        <nuxt-link to="./insostenibilita">Insostenibilità 2022 1 13</nuxt-link>
+      </h2>
+    </b-row>
+    <b-row class="m-3 justify-content-center">
+      <h2>
+        <nuxt-link to="./halfaquarter">Half a quarter 2022 1 24</nuxt-link>
+      </h2>
+    </b-row>
+    <b-row class="m-3 justify-content-center">
+      <h2>
+        <nuxt-link to="./ladonnadellamiavita">
+          La donna della mia vita 2022 1 31
+        </nuxt-link>
+      </h2>
+    </b-row>
+    <b-row class="m-3 justify-content-center">
+      <h2>
+        <nuxt-link to="./madreditutti">Madre di tutti 2022 2 19</nuxt-link>
+      </h2>
+    </b-row>
+    <b-row class="m-3 justify-content-center">
+      <h2>
+        <nuxt-link to="./credereforte">Credere forte 2022 2 7</nuxt-link>
+      </h2>
     </b-row>
 
     <b-row class="m-3 justify-content-center">
