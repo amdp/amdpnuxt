@@ -5,6 +5,8 @@
     </b-row>
     <b-row class="m-3 justify-content-center">
       <p class="base justify-content-center">
+        Nel nome della madre, del padre e della vita<br />
+        <br />
         Madre di tutti<br />
         che sei nella terra<br />
         sia violato il tuo essere ignota<br />
@@ -15,7 +17,7 @@
         e che ogni credito diventi dono<br />
         lasciando andare ciò che abbiamo offerto<br />
         portaci all'amore<br />
-        e vincolaci al bene<br />
+        e stringici al bene<br />
         <br />
         nema<br />
       </p>
