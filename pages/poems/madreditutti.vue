@@ -11,13 +11,13 @@
         che sei nella terra<br />
         sia violato il tuo essere ignota<br />
         crolli ogni dominio<br />
-        sia disfatta ogni ostilità.<br />
-        Fa' che sia la terra a scegliere il cielo<br />
+        sia disfatta ogni ostilità<br />
+        ora in terra poi in cielo <br />
         evitaci il tuo raro veleno<br />
-        e che ogni credito diventi dono<br />
-        lasciando andare ciò che abbiamo offerto<br />
+        ogni credito diventi dono<br />
+        prendendo poco da chi ha troppo<br />
         portaci all'amore<br />
-        e stringici al bene<br />
+        riuniscici nel bene<br />
         <br />
         nema<br />
       </p>
