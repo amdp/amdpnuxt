@@ -16,7 +16,7 @@
         evitaci il tuo raro veleno<br />
         ogni credito diventi dono<br />
         prendendo il giusto da chi ha troppo<br />
-        riportaci all'amore<br />
+        portaci all'amore<br />
         riuniscici nel bene<br />
         <br />
         nema<br />
