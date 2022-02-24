@@ -15,8 +15,8 @@
         ora in terra poi in cielo <br />
         evitaci il tuo raro veleno<br />
         ogni credito diventi dono<br />
-        prendendo poco da chi ha troppo<br />
-        portaci all'amore<br />
+        prendendo il giusto da chi ha troppo<br />
+        riportaci all'amore<br />
         riuniscici nel bene<br />
         <br />
         nema<br />
