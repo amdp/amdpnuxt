@@ -28,28 +28,28 @@
         Padre nostro dall'aramaico per comparazioni: <br />
         <br />
         Avu-n<br />
-        Padre- noi<br />
+        Padre-noi<br />
         <br />
         d-b-ishmayya<br />
-        quello- nel- cielo<br />
+        quello-nel-cielo<br />
         <br />
         net-qaddash<br />
         [passivo]+rendi sacro<br />
         <br />
         shimmu-kh<br />
-        nome- te<br />
+        nome-te<br />
         <br />
         te-teh<br />
-        è ed è (è ed è, sia già)<br />
+        è ed è (sia già)<br />
         <br />
         malciutu-kh<br />
-        regno- te<br />
+        regno-te<br />
         <br />
         neh-ve sovyanu-kh<br />
-        [passivo]-fatta volontà- te<br />
+        [passivo]-fatta volontà-te<br />
         <br />
         eiciana d-b-ismayya<br />
-        uguale quello-nei-cielo<br />
+        uguale quello-nel-cielo<br />
         <br />
         ap b-arah<br />
         uguale nella terra<br />
@@ -61,7 +61,7 @@
         pane<br />
         <br />
         d-sunqana-n<br />
-        quello-bisongo- noi<br />
+        quello-bisongo-noi<br />
         <br />
         yumana<br />
         giorno<br />
