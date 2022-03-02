@@ -22,6 +22,8 @@
         nema<br />
         <br />
       </p>
+    </b-row>
+    <b-row>
       <p>
         Padre nostro dall'aramaico per comparazioni: <br />
         <br />
