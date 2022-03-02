@@ -20,9 +20,9 @@
         riuniscici nel bene<br />
         <br />
         nema<br />
+        <br />
       </p>
       <p>
-        <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
         Padre nostro dall'aramaico per comparazioni: <br />
         <br />
         Avu-n<br />
