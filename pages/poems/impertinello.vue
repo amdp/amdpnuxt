@@ -6,7 +6,7 @@
     <b-row class="m-3 justify-content-center">
       <p class="base justify-content-center">
         Vuoi sapere il segreto dei gruppi,<br />
-        saper ben decidere insieme.<br />
+        saper decidere insieme.<br />
         <br />
         C'era una volta<br />
         la storia Yoruba del cappello.<br />
@@ -33,7 +33,7 @@
         Ma a te<br />
         di questa teoria poco importa,<br />
         vuoi sapere il segreto dei gruppi:<br />
-        ben saper decidere insieme.<br />
+        saper decidere insieme.<br />
         Sette sembran esser<br />
         gli insegnamenti necessari<br />
         trasparente <br />
@@ -78,7 +78,7 @@
         <br />
         Allor vuoi sapere il segreto dei gruppi,<br />
         il quarto dei sette vuoi sapere<br />
-        per poter ben decidere insieme.<br />
+        per poter decidere insieme.<br />
         <br />
         Eccola l'informazione<br />
         ognun di noi la vede per quel che può<br />
