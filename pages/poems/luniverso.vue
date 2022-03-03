@@ -1,7 +1,7 @@
 <template>
   <b-container>
     <b-row class="m-3 justify-content-center">
-      <h1>L'Universo</h1>
+      <h1>L'universo</h1>
     </b-row>
     <b-row class="m-3 justify-content-center">
       <p class="base justify-content-center">

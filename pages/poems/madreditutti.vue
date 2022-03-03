@@ -23,7 +23,7 @@
         <br />
       </p>
     </b-row>
-    <b-row>
+    <b-row class="m-3 justify-content-center">
       <p>
         Padre nostro dall'aramaico per comparazioni: <br />
         <br />

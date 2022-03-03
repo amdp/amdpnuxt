@@ -1,7 +1,7 @@
 <template>
   <b-container>
     <b-row class="m-3 justify-content-center">
-      <h1>Acqua e terra</h1>
+      <h1>Credere forte</h1>
     </b-row>
     <b-row class="m-3 justify-content-center">
       <p class="base justify-content-center">
