@@ -10,7 +10,7 @@
       <nuxt-link to="./noiosetto">Noiosetto 2021 12 3</nuxt-link>
     </b-row>
     <b-row class="base m-3 justify-content-center">
-      <nuxt-link to="./lefaccende">Le Faccende 2021 12 20</nuxt-link>
+      <nuxt-link to="./lefaccende">Le faccende 2021 12 20</nuxt-link>
     </b-row>
     <b-row class="base m-3 justify-content-center">
       <nuxt-link to="./misticanza">Misticanza 2021 12 21</nuxt-link>
@@ -28,7 +28,7 @@
       <nuxt-link to="./ilsolco">Il solco 2022 1 12</nuxt-link>
     </b-row>
     <b-row class="base m-3 justify-content-center">
-      <nuxt-link to="./luniverso">L'Universo 2022 1 13</nuxt-link>
+      <nuxt-link to="./luniverso">L'universo 2022 1 13</nuxt-link>
     </b-row>
     <b-row class="base m-3 justify-content-center">
       <nuxt-link to="./insostenibilita">Insostenibilità 2022 1 13</nuxt-link>

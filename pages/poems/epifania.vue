@@ -123,9 +123,9 @@
         ancora, <br />
         dopo tutto quanto è successo<br />
         cosa c'è scritto alla fine di quel libro<br />
-        gira la pagina, cerca bene<br />
+        gira la pagina, cerca, cerca<br />
         non si vede bene lo so<br />
-        anche se ho gli occhi ben chiusi,<br />
+        anche se ho gli occhi chiusi,<br />
         non la trovo la risposta,<br />
         tu, tu forse sai<br />
         hai scoperto<br />
