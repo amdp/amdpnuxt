@@ -69,8 +69,7 @@
         'Devi esser cieco allora!'<br />
         'Ma sarai tu ad esser sbronzo!'<br />
         'Sarai tu piuttosto a voler esser morto!'<br />
-        E allora l'altro:<br />
-        'Il cappello di certo<br />
+        'Ah sì? Il cappello di certo<br />
         non cambierà il suo colore<br />
         ma colpendoti di santa ragione<br />
         e facendolo con ardore<br />
