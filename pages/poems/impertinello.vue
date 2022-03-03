@@ -148,10 +148,10 @@
         mostrando equivoci e segreti.<br />
         <br />
         Insieme si parla ad un banchetto <br />
-        bello dev'esser il banchetto<br />
+        il banchetto dev'esser bello<br />
         invita tutti, porta mille arance<br />
         e li vedrai che Impertinello<br />
-        ci mostrerà felice il suo berretto.<br />
+        ci mostrerà il suo berretto.<br />
       </p>
     </b-row>
     <b-row class="m-3 justify-content-center">
