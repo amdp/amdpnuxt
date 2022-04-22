@@ -1,7 +1,7 @@
 <template>
   <b-container>
     <b-row class="base m-3 justify-content-center">
-      <h1>tales</h1>
+      <h1>Tales</h1>
     </b-row>
     <b-row class="base m-3 justify-content-center">
       <nuxt-link to="./piccolaluce">Piccola luce 2021 12 15</nuxt-link>
@@ -50,13 +50,28 @@
     <b-row class="base m-3 justify-content-center">
       <nuxt-link to="./impertinello">Impertinello 2022 3 3</nuxt-link>
     </b-row>
+    <b-row class="base m-3 justify-content-center">
+      <a
+        href="https://www.youtube.com/watch?v=OZjUzKyPZ_4&ab_channel=AlessandroMerlettiDePalo"
+      >
+        La Favola del Mare, della Luna e del Gatto 2022 3 30
+      </a>
+    </b-row>
+    <b-row class="base m-3 justify-content-center">
+      <a
+        href="https://www.youtube.com/watch?v=tb2sYR1LV2g&t=9s&ab_channel=AlessandroMerlettiDePalo"
+      >
+        La favola del Dentifricio, della Cernia e dell'Aquila 2022 4 3
+      </a>
+    </b-row>
+
     <!-- <b-row class="base m-3 justify-content-center">
       <nuxt-link to="./cooperastrocca">
         Cooperastrocca 2020 6 13 - 2022 3 7
       </nuxt-link>
     </b-row> -->
 
-    <b-row class="base m-3 justify-content-center">
+    <b-row class="base m-5 justify-content-center">
       <h5><nuxt-link to="../">- Back to main page -</nuxt-link></h5>
     </b-row>
   </b-container>
