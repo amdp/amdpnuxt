@@ -1,62 +1,68 @@
 <template>
-  <b-container>
-    <b-row class="m-3 justify-content-center">
-      <img src="/me.png" height="240px" />
-    </b-row>
-    <b-row>
-      <div class="go bb">AMDP</div>
-    </b-row>
-    <b-row>
-      <div class="base">
-        Hi, I am <b>A</b>lessandro <b>M</b>erletti <b>D</b>e <b>P</b>alo, film
-        director and researcher in cooperation science.<br />
-      </div>
-    </b-row>
-    <b-row>
-      <div class="go bb">FILM DIRECTION</div>
-    </b-row>
-    <b-row>
-      <div class="base">
-        As a film director, I co-founded with Giovanni Caloro
-        <a href="http://amarenapictures.com">Amarena Pictures</a>, a video
-        production company born as a service for our directions in 2010.
-      </div>
-    </b-row>
-    <b-row>
-      <div class="go bb">COOPERATION SCIENCE</div>
-    </b-row>
-    <b-row>
-      <div class="base">
-        I co-founded with Ilario Tito and some other girls and guys
-        <a href="http://cooperacy.org">Cooperacy</a>, a research organization
-        about Cooperation Science, with the purpose of developing a solid
-        scientific model of human cooperation and experiment it within real
-        world applications. <br />The model is based on game theory, genetics,
-        neuroscience, linguistics and complex systems and is currently able to
-        support complex organizations coordination, measure their level of
-        cooperation, and suggest interventions.<br />
-        I personally hold conferences and workshops about Cooperation
-        Science.<br />
-      </div>
-    </b-row>
-    <b-row>
-      <div class="go bb">WHY ME</div>
-    </b-row>
-    <b-row>
-      <div class="base">
-        Joining my experience in filming and science I wrote and directed
-        together with Giovanni Caloro a documentary, "Why Me", featuring Nobel
-        Prize Elizabeth Blackburn, about how much human lives are pre-determined
-        by our DNA currently available on
-        <a href="https://t.co/SVywhMl3It">Amazon Prime Video</a>.
-      </div>
-    </b-row>
-    <b-row>
-      <div class="base mb-5">
-        If you are curious, you can also have a look at my
-        <nuxt-link to="./tales/tales">tales</nuxt-link>. <br />
-        Hoping you found good informations, I wish you a pleasant and happy day.
-      </div>
+  <b-container fluid>
+    <b-row class="m-3">
+      <b-col class="m-5">
+        <b-row class="m-3 justify-content-center">
+          <img src="/me.png" height="240px" />
+        </b-row>
+        <b-row>
+          <div class="go bb">AMDP</div>
+        </b-row>
+        <b-row>
+          <div class="base">
+            Hi, I am <b>A</b>lessandro <b>M</b>erletti <b>D</b>e <b>P</b>alo,
+            film director and researcher in cooperation science.<br />
+          </div>
+        </b-row>
+        <b-row>
+          <div class="go bb">FILM DIRECTION</div>
+        </b-row>
+        <b-row>
+          <div class="base">
+            As a film director, I co-founded with Giovanni Caloro
+            <a href="http://amarenapictures.com">Amarena Pictures</a>, a video
+            production company born as a service for our directions in 2010.
+          </div>
+        </b-row>
+        <b-row>
+          <div class="go bb">COOPERATION SCIENCE</div>
+        </b-row>
+        <b-row>
+          <div class="base">
+            I co-founded with Ilario Tito and some other girls and guys
+            <a href="http://cooperacy.org">Cooperacy</a>, a research
+            organization about Cooperation Science, with the purpose of
+            developing a solid scientific model of human cooperation and
+            experiment it within real world applications. <br />The model is
+            based on game theory, genetics, neuroscience, linguistics and
+            complex systems and is currently able to support complex
+            organizations coordination, measure their level of cooperation, and
+            suggest interventions.<br />
+            I personally hold conferences and workshops about Cooperation
+            Science.<br />
+          </div>
+        </b-row>
+        <b-row>
+          <div class="go bb">WHY ME</div>
+        </b-row>
+        <b-row>
+          <div class="base">
+            Joining my experience in filming and science I wrote and directed
+            together with Giovanni Caloro a documentary, "Why Me", featuring
+            Nobel Prize Elizabeth Blackburn, about how much human lives are
+            pre-determined by our DNA currently available on
+            <a href="https://t.co/SVywhMl3It">Amazon Prime Video</a>.
+          </div>
+        </b-row>
+        <b-row>
+          <div class="base mb-5">
+            If you are curious, you can also have a look at my
+            <nuxt-link to="./tales/tales">tales</nuxt-link>. <br />
+            Hoping you found good informations, I wish you a pleasant and happy
+            day.
+          </div>
+        </b-row>
+      </b-col>
     </b-row>
   </b-container>
 </template>
