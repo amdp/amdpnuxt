@@ -22,6 +22,7 @@
         nema<br />
         <br />
       </p>
+      <p class="base justify-content-right">Scritto con Roberta Erbaluce</p>
     </b-row>
     <b-row class="m-3 justify-content-center">
       <p>
@@ -88,7 +89,7 @@
       </p>
     </b-row>
     <b-row class="m-3 justify-content-center">
-      <h5><nuxt-link to="./poems">- Back to poems list -</nuxt-link></h5>
+      <h5><nuxt-link to="./tales">- Back to index -</nuxt-link></h5>
     </b-row>
   </b-container>
 </template>

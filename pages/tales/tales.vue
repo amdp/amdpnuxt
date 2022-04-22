@@ -1,7 +1,7 @@
 <template>
   <b-container>
     <b-row class="base m-3 justify-content-center">
-      <h1>POEMS</h1>
+      <h1>tales</h1>
     </b-row>
     <b-row class="base m-3 justify-content-center">
       <nuxt-link to="./piccolaluce">Piccola luce 2021 12 15</nuxt-link>
@@ -50,6 +50,11 @@
     <b-row class="base m-3 justify-content-center">
       <nuxt-link to="./impertinello">Impertinello 2022 3 3</nuxt-link>
     </b-row>
+    <!-- <b-row class="base m-3 justify-content-center">
+      <nuxt-link to="./cooperastrocca">
+        Cooperastrocca 2020 6 13 - 2022 3 7
+      </nuxt-link>
+    </b-row> -->
 
     <b-row class="base m-3 justify-content-center">
       <h5><nuxt-link to="../">- Back to main page -</nuxt-link></h5>
