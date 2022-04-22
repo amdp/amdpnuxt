@@ -1,7 +1,7 @@
 <template>
   <b-container fluid>
-    <b-row class="m-3">
-      <b-col class="m-5">
+    <b-row class="mx-3">
+      <b-col class="m-2">
         <b-row class="m-3 justify-content-center">
           <img src="/me.png" height="240px" />
         </b-row>
@@ -19,7 +19,7 @@
         </b-row>
         <b-row>
           <div class="base">
-            As a film director, I co-founded with Giovanni Caloro
+            I co-founded with Giovanni Caloro
             <a href="http://amarenapictures.com">Amarena Pictures</a>, a video
             production company born as a service for our directions in 2010.
           </div>
@@ -32,14 +32,12 @@
             I co-founded with Ilario Tito and some other girls and guys
             <a href="http://cooperacy.org">Cooperacy</a>, a research
             organization about Cooperation Science, with the purpose of
-            developing a solid scientific model of human cooperation and
-            experiment it within real world applications. <br />The model is
-            based on game theory, genetics, neuroscience, linguistics and
-            complex systems and is currently able to support complex
-            organizations coordination, measure their level of cooperation, and
-            suggest interventions.<br />
-            I personally hold conferences and workshops about Cooperation
-            Science.<br />
+            experimenting my preliminary scientific model of human cooperation
+            within real world applications and social systems. <br />The model
+            is based on game theory, genetics, neuroscience, linguistics and
+            complex systems and is currently able to support organizations
+            coordination, measure their level of cooperation and suggest
+            interventions.<br />
           </div>
         </b-row>
         <b-row>
@@ -47,15 +45,16 @@
         </b-row>
         <b-row>
           <div class="base">
-            Joining my experience in filming and science I wrote and directed
-            together with Giovanni Caloro a documentary, "Why Me", featuring
-            Nobel Prize Elizabeth Blackburn, about how much human lives are
-            pre-determined by our DNA currently available on
+            Joining my experience in <i>filming</i> and <i>science</i> I wrote
+            and directed together with Giovanni Caloro a documentary, "Why Me",
+            featuring Nobel Prize Elizabeth Blackburn, about how much human
+            lives are pre-determined by our DNA. It's currently available in
+            Italy, US, UK, AUS and NZ on
             <a href="https://t.co/SVywhMl3It">Amazon Prime Video</a>.
           </div>
         </b-row>
         <b-row>
-          <div class="base mb-5">
+          <div class="base mb-4">
             If you are curious, you can also have a look at my
             <nuxt-link to="./tales/tales">tales</nuxt-link>. <br />
             Hoping you found good informations, I wish you a pleasant and happy
