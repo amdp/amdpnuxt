@@ -63,38 +63,37 @@
         </b-row>
       </b-col>
     </b-row>
+    <!--
+    <a href="https://www.jovianarchive.com/get_your_chart">  Human Design </a>
+    ManGen 1/3-1/4,
+    <a href="https://www.truity.com/test/big-five-personality-test">
+      5 Big Personalities
+    </a>
+    Openness 84 Concentiousness 92 Extraversion 78 Agreableness 71
+    Neuroticism 38,
+    <a href="https://www.truity.com/test/enneagram-personality-test">
+      Enneagram
+    </a>
+    8-5,
+    <a href="https://www.5lovelanguages.com/quizzes/singles-quiz">
+      Love Language
+    </a>
+    Quality Time 30 Physical Touch 28 Acts of service 20 Words of
+    Affirmation 18 Receiving gifts 4.
+    I have been diagnosed in 2021 to be in the Autism spectrum, level 1
+    "<a href="https://en.wikipedia.org/wiki/Asperger_syndrome">Asperger</a
+    >", although with no apparent disability and with high level of
+    empathy. Another test I had told me in fact I am also a "high
+    sensitive",
+    <a href="https://hsperson.com/test/highly-sensitive-test">HSP-E</a>
+    person. I was sixteen years old when I entered
+    <a href="https://www.mensa.org/">Mensa</a>, now I am no longer member
+    of the association. My "Jungian" personality is instead
+    <a href="https://www.16personalities.com/">ENFJ-ENFP-A</a>.
+    <br /><br />
+    No test can really tell us who we are. Nevetheless, they can give out
+    some hints about ourselves. <br />
+    -->
   </b-container>
 </template>
-<!--
-<a href="https://www.jovianarchive.com/get_your_chart">
-            Human Design
-          </a>
-          ManGen 1/3-1/4,
-          <a href="https://www.truity.com/test/big-five-personality-test">
-            5 Big Personalities
-          </a>
-          Openness 84 Concentiousness 92 Extraversion 78 Agreableness 71
-          Neuroticism 38,
-          <a href="https://www.truity.com/test/enneagram-personality-test">
-            Enneagram
-          </a>
-          8-5,
-          <a href="https://www.5lovelanguages.com/quizzes/singles-quiz">
-            Love Language
-          </a>
-          Quality Time 30 Physical Touch 28 Acts of service 20 Words of
-          Affirmation 18 Receiving gifts 4.
-           I have been diagnosed in 2021 to be in the Autism spectrum, level 1
-            "<a href="https://en.wikipedia.org/wiki/Asperger_syndrome">Asperger</a
-            >", although with no apparent disability and with high level of
-            empathy. Another test I had told me in fact I am also a "high
-            sensitive",
-            <a href="https://hsperson.com/test/highly-sensitive-test">HSP-E</a>
-            person. I was sixteen years old when I entered
-            <a href="https://www.mensa.org/">Mensa</a>, now I am no longer member
-            of the association. My "Jungian" personality is instead
-            <a href="https://www.16personalities.com/">ENFJ-ENFP-A</a>.
-            <br /><br />
-            No test can really tell us who we are. Nevetheless, they can give out
-            some hints about ourselves. <br />
-            -->
+
